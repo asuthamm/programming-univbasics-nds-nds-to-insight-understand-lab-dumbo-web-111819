@@ -17,6 +17,6 @@ end
 
 # pretty_print_nds(directors_database)
 # print_first_directors_movie_titles
-
-# p directors_database[0][:name]
+p "- - - - -"
+p directors_database[0][:name]
 p directors_database[0][:movies][0]
