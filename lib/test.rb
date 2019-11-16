@@ -20,6 +20,6 @@ end
 p "- - - - -"
 p directors_database[0][:name]
 p "- - - - -"
-p directors_database[0][:movies]
+p directors_database[0][:movies][0].keys
 p "- - - - -"
 
